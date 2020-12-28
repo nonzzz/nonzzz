@@ -10,7 +10,7 @@
 - 🌸 Currenly I'm working in FuZhou,China.
 - 💬 You can ask me JavaScript questions,and My projecet on [here](mailto:812137533@qq.com)
 
-### Open Sorce Project
+### Open Source Project
 - [基于Next.jsSSR渲染静态博客Mia.bio](https://github.com/Risyen/Mia.bio)
 - [博客安装工具Mia-bio-installer](https://github.com/Risyen/bio-installer)
 - [eslint个人向配置](https://github.com/Miayawlr/eslint-config-kagura)
