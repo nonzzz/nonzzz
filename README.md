@@ -15,6 +15,7 @@
 - [博客安装工具Mia-bio-installer](https://github.com/Risyen/bio-installer)
 - [eslint个人向配置](https://github.com/Miayawlr/eslint-config-kagura)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miayawlr&hide=css,html&layout=compact)](https://github.com/Miayawlr/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Miayawlr&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miayawlr&hide=css,html&layout=compact)](https://github.com/Miayawlr/github-readme-stats)
+
 
