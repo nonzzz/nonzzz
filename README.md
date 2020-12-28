@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### 😄I'm Xerxes break
 - A font-end developer & Open Source enthusiast.
 - 🌸 Currenly I'm working in FuZhou,China.
-- 💬 You can ask me JavaScript questions,and My projecet on [812137533@qq.com](mailto:812137533@qq.com)
+- 💬 You can ask me JavaScript questions,and My projecet on [here](mailto:812137533@qq.com)
 
 
 
