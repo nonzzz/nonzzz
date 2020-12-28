@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![EqNm3K5UYAIDkXO](https://user-images.githubusercontent.com/52351095/103184316-91c7ad80-48f2-11eb-98f6-fc98b7a81ed5.jpg)
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/52351095/103184390-ef5bfa00-48f2-11eb-922b-0f10391abecf.gif" />
 
 ### 😄I'm Xerxes break
 - A font-end developer & Open Source enthusiast.
