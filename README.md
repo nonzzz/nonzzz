@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 - 🌸 Currenly I'm working in FuZhou,China.
 - 💬 You can ask me JavaScript questions,and My projecet on [here](mailto:812137533@qq.com)
 
+### Open Sorce Project
+- [基于Next.jsSSR渲染静态博客Mia.bio](https://github.com/Risyen/Mia.bio)
+- [博客安装工具Mia-bio-installer](https://github.com/Risyen/bio-installer)
+- [eslint个人向配置](https://github.com/Miayawlr/eslint-config-kagura)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miayawlr&hide=css,html)](https://github.com/Miayawlr/github-readme-stats)
 
-![info](https://github-readme-stats.vercel.app/api?username=Miayawlr&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
