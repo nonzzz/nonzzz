@@ -3,7 +3,8 @@
 <!--
 **Miayawlr/MiayaWlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/52351095/103184390-ef5bfa00-48f2-11eb-922b-0f10391abecf.gif" />
+<img align="right" alt="GIF" width = "300" height = "200" src="https://user-images.githubusercontent.com/52351095/103184390-ef5bfa00-48f2-11eb-922b-0f10391abecf.gif" />
+<img align="right" alt="GIF"  width = "300" height = "200" src="https://user-images.githubusercontent.com/52351095/103271953-8f4e7c00-49f6-11eb-83fe-deedfb4f0f3d.gif" />
 
 ### 😄I'm Xerxes break
 - A font-end developer & Open Source enthusiast.
@@ -18,4 +19,4 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Miayawlr&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Miayawlr&hide=css,html&layout=compact)](https://github.com/Miayawlr/github-readme-stats)
 
-
+<img align="right" alt="GIF"  width = "300" height = "200" src="https://user-images.githubusercontent.com/52351095/103272262-5c58b800-49f7-11eb-8761-8bf5f283835f.gif" />
