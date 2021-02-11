@@ -8,7 +8,7 @@
 <img align="right" alt="GIF"  width = "300" height = "200" src="https://user-images.githubusercontent.com/52351095/103271953-8f4e7c00-49f6-11eb-83fe-deedfb4f0f3d.gif" />
 
 ### 😄I'm Xerxes break
-- A font-end developer & Open Source enthusiast.
+- A  Web front-end developer & Open Source enthusiast.
 - 🌸 Currenly I'm working in FuZhou,China.
 - 💬 You can ask me JavaScript questions,and My projecet on [here](mailto:812137533@qq.com)
 
