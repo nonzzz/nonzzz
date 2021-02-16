@@ -17,5 +17,5 @@
 - [博客安装工具Mia-bio-installer](https://github.com/Risyen/bio-installer)
 - [eslint个人向配置](https://github.com/Miayawlr/eslint-config-kagura)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XeryYuehtml&layout=compact)](https://github.com/XeryYue/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XeryYue&hide=css,html&layout=compact)](https://github.com/XeryYue/github-readme-stats)
 <img align="right" alt="GIF"  width = "300" height = "200" src="https://user-images.githubusercontent.com/52351095/103272262-5c58b800-49f7-11eb-8761-8bf5f283835f.gif" />
