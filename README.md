@@ -15,6 +15,7 @@
 ### Open Source Project
 - [基于Next.jsSSR渲染静态博客Mia.bio](https://github.com/Risyen/Mia.bio)
 - [博客安装工具Mia-bio-installer](https://github.com/Risyen/bio-installer)
+- [博客diff更新工具Mia-update](https://github.com/Risyen/mia.bio-update)
 - [eslint个人向配置](https://github.com/Miayawlr/eslint-config-kagura)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XeryYue&hide=css,html)](https://github.com/XeryYue/github-readme-stats)
