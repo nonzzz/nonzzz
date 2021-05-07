@@ -20,7 +20,7 @@
 - [Minimalist UI Lib built on Vue](https://github.com/fay-org/fect)
 
 ### Planning
-- write a UI lib by use vue3...
+- update UI lib built on Vue3...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XeryYue&hide=css,html,less,vue)](https://github.com/XeryYue/github-readme-stats)
 <img align="right" alt="GIF"  width = "300" height = "200" src="https://user-images.githubusercontent.com/52351095/103272262-5c58b800-49f7-11eb-8761-8bf5f283835f.gif" />
