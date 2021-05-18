@@ -8,7 +8,7 @@
 - A  Web front-end developer & Open Source enthusiast.
 - 🌸 Currenly I'm busy but still updating.
 - 💬 You can ask me JavaScript questions,and My projecet on [here](mailto:812137533@qq.com)
-- Member of fact-org
+- Member of fect-org
 
 ### Open Source Project
 
