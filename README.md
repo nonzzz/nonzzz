@@ -8,9 +8,9 @@
 
 ### 😄I'm Kanno
 - A  Web front-end developer & Open Source enthusiast.
-- 🌸 Currenly I'm busy but still updating.
+- 🌸 Currenly I'm work in a sad place.
 - 💬 You can ask me JavaScript questions,and My projecet on [here](mailto:812137533@qq.com)
-- Member of fect-org
+- ... More wait
 
 ### Open Source Project
 
@@ -18,7 +18,7 @@
 
 ### Planning
 - update UI lib built on Vue3...
-- Plan refacotr UI lib by typescript...
+- Plan write more fairy...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XeryYue&hide=css,html,less,vue)](https://github.com/XeryYue/github-readme-stats)
 <img  align="right" alt="GIF"  width = "300" height = "200" src="https://user-images.githubusercontent.com/52351095/118128798-f876df00-b42d-11eb-9946-df9a53c07ed3.gif" />
