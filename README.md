@@ -21,4 +21,4 @@
 - Plan write more fairy...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XeryYue&hide=css,html,less,vue)](https://github.com/XeryYue/github-readme-stats)
-<img  align="right" alt="GIF"  width = "300" height = "200" src="https://user-images.githubusercontent.com/52351095/118128798-f876df00-b42d-11eb-9946-df9a53c07ed3.gif" />
+<img  align="right" alt="GIF"  width = "300" height = "200" src="https://user-images.githubusercontent.com/52351095/124460886-86ce6800-ddc2-11eb-9e4a-2070b4e473af.gif" />
