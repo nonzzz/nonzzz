@@ -8,8 +8,11 @@
 <img  align="right" alt="JPG"  width = "300" height = "300" src="https://user-images.githubusercontent.com/52351095/119436372-a0ee4280-bd4e-11eb-93aa-bb3cae4ef8d4.jpg" />
 
 ### 😄I'm Kanno
+
 - A  Web front-end developer & Open Source enthusiast.
+- 🌈 Be strong by myself 
 - 💬 You can ask me JavaScript questions,and My projecet on [here](mailto:812137533@qq.com)
+- 💻 Currently i work at a sad place , When can I find a good place to work
 - ... More wait
 
 ### Open Source Project
