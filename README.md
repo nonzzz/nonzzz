@@ -11,6 +11,7 @@
 
 - A  Web front-end developer & Open Source enthusiast.
 - 🌈 Work harder
+-  💻 Learn write Chrome Extension
 - 💬 You can ask me JavaScript questions,and My projecet on [here](mailto:812137533@qq.com)
 - ... More wait
 
