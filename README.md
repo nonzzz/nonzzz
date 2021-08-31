@@ -23,5 +23,8 @@
 - update UI lib built on Vue3...
 - Work Hard better
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XeryYue&hide=css,html,less,vue)](https://github.com/XeryYue/github-readme-stats)
-<img  align="right" alt="GIF"  width = "300" height = "200" src="https://user-images.githubusercontent.com/52351095/125226123-0ef0c800-e303-11eb-9ba9-c9f647390986.gif" />
+<div>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeryYue&hide=css,html,less,vue" />
+ <img  align="right" width="450"  height = "300" src="https://github-readme-stats.vercel.app/api/pin/?username=fay-org&repo=fect" />
+</div>
+
