@@ -25,6 +25,5 @@
 
 <div>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeryYue&hide=css,html,less,vue" />
- <img  align="right" width="450"  height = "300" src="https://github-readme-stats.vercel.app/api/pin/?username=fay-org&repo=fect" />
 </div>
 
