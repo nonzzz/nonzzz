@@ -10,7 +10,7 @@
 ### 😄I'm Kanno
 
 - A  Web front-end developer & Open Source enthusiast.
-- 😫 Sadly
+- 💻 Σ(っ °Д °;)っ
 - 💬 You can ask me JavaScript questions,and My projecet on [here](mailto:812137533@qq.com)
 - ... More wait
 
