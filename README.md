@@ -20,7 +20,6 @@
 
 ### Planning
 - update UI lib built on Vue3...
-- Look for a job
 
 <div>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeryYue&hide=css,html,less,vue" />
