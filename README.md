@@ -12,6 +12,7 @@
 - A  Web front-end developer & Open Source enthusiast.
 - 💻 Σ(っ °Д °;)っ
 - 💬 You can ask me JavaScript questions,and My projecet on [here](mailto:812137533@qq.com)
+- New year go 
 - ... More wait
 
 ### Open Source Project
