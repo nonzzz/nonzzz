@@ -5,7 +5,6 @@
 **Miayawlr/MiayaWlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img  align="right" alt="JPG"   src="https://user-images.githubusercontent.com/52351095/147205861-c151668b-b5e5-46ad-b692-0242d045ffac.gif" />
 
 ### 😄I'm Kanno
 
@@ -20,8 +19,4 @@
 
 ### Planning
 - update UI lib built on Vue3...
-
-<div>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XeryYue&hide=css,html,less,vue" />
-</div>
-
+- Plan for a new project
