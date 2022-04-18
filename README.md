@@ -18,7 +18,7 @@
 
 - [Minimalist UI Lib built on Vue](https://github.com/fay-org/fect)
 - [Minimalist npm registry manager](https://github.com/XeryYue/grm)
-- member of [Web265WebJs](https://github.com/numberwolf/h265web.js) 
+- member of [h265web.js](https://github.com/numberwolf/h265web.js) 
 
 ### Planning
 - Update UI lib built on Vue3...
