@@ -23,3 +23,12 @@
 ### Planning
 - Update UI lib built on Vue3...
 - Write some golang project...
+
+If you like my project, You can buy me a coffie at [GitHub Sponsors](https://github.com/sponsors/XeryYue)
+
+
+<p align="center">
+  <a href="https://cdn.jsdelivr.net/gh/XeryYue/picture-bed/images/sponsors.svg">
+    <img src='https://cdn.jsdelivr.net/gh/XeryYue/picture-bed/images/sponsors.svg'/>
+  </a>
+</p>
