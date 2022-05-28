@@ -5,8 +5,7 @@
 
 - You can call me `Kanno`
 - Open Source enthusiast.
-- 💬 You can ask me JavaScript questions,and My projecet on [here](mailto:812137533@qq.com)
-- ... More wait
+- 💬If you're interested me, You can  [here](mailto:812137533@qq.com)
 
 
 
