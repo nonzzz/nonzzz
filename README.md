@@ -4,7 +4,7 @@
 
 
 - You can call me `Kanno`
-- Open Source enthusiast.
+- Plan to found a job. (
 - 💬If you're interested me, You can  [here](mailto:812137533@qq.com)
 
 
