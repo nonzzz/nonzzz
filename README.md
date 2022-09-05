@@ -4,7 +4,7 @@
 
 
 - You can call me `Kanno`
-- Plan to found a job. (
+- Free lance
 - 💬If you're interested me, You can  [here](mailto:812137533@qq.com)
 
 
